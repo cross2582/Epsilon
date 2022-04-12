@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <string.h>
 using namespace std;
 double pow(double x, int p) {
 	double up = 1;
